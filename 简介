@@ -1,8 +1,8 @@
 ListView是安卓中最常用的控件，也是最难用的控件。说难用并不是难写，当item很多的时候，比较难以优化方便。
 因为是控件，所以声明ListView的时候，格式如下：
-`<ListView>`<ListView
+<ListView
   android:id="@+id/list_view"
   android:layout_width="match_parent"
   android:layout_height="mathc_parent">
 </ListView>
-`
+
